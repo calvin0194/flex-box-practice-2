@@ -1,0 +1,46 @@
+.parent{
+	height:85vh;
+	width:85vw;
+	border:2px solid;
+	padding: 25px;
+	justify-content: space-between;
+	color: red;
+}
+.tan{
+	height:45%;
+	border:2px solid;
+	font-size: 30px;
+	color:blue;
+	margin: auto;
+	display:flex;
+	flex-direction: row;
+	flex-wrap: wrap;
+	justify-content:space-between; 
+	padding: 10px;
+
+}
+.orange{
+	height:25%;
+	width:25%;
+	border:2px solid gold;
+	color:blue;
+}
+.mango{
+	height:45%;
+	border:2px solid;
+	font-size: 30px;
+	margin: auto;
+	color:blue;
+	display:flex;
+	flex-wrap: wrap;
+	flex-direction: column-reverse;
+	justify-content: center;
+	padding: 10px;
+	margin-top: 5px;
+}
+.sandwich{
+	height:25%;
+	width:25%;
+	border:2px dotted silver;
+	color:orange;
+}
